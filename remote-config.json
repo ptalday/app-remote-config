@@ -1,7 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-10-12",
   "ads": {
+    "useTestAds": false,
     "rewardedEnabled": true,
     "interstitialEnabled": true,
     "bannerEnabled": true,
@@ -11,9 +12,9 @@
     "interstitialSkipFirstMatchOfDay": true,
     "shopAdDailyCap": 5,
     "android": {
-      "banner": "",
-      "interstitial": "",
-      "rewarded": ""
+      "banner": "ca-app-pub-6123522578658577/8095343281",
+      "interstitial": "ca-app-pub-6123522578658577/8286914972",
+      "rewarded": "ca-app-pub-6123522578658577/6806312340"
     },
     "ios": {
       "banner": "",
