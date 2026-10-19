@@ -1,0 +1,29 @@
+{
+  "version": 6,
+  "updatedAt": "2026-10-20",
+  "ads": {
+    "rewardedEnabled": true,
+    "interstitialEnabled": true,
+    "bannerEnabled": true,
+    "interstitialAfterMatches": 3,
+    "interstitialEveryMatches": 3,
+    "interstitialMinIntervalSeconds": 120,
+    "interstitialSkipFirstMatchOfDay": true,
+    "shopAdDailyCap": 5,
+    "useTestAds": false,
+    "android": {
+      "banner": "",
+      "interstitial": "",
+      "rewarded": ""
+    },
+    "ios": {
+      "banner": "",
+      "interstitial": "",
+      "rewarded": ""
+    }
+  },
+  "worldrally": {
+    "freeAttempts": 3,
+    "maxExtraAttemptsPerDay": 3
+  }
+}
