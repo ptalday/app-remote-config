@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-10-20",
   "ads": {
     "rewardedEnabled": true,
@@ -10,6 +10,7 @@
     "interstitialMinIntervalSeconds": 120,
     "interstitialSkipFirstMatchOfDay": true,
     "shopAdDailyCap": 5,
+    "shopAdCoins": 100,
     "useTestAds": true,
     "android": {
       "banner": "",
